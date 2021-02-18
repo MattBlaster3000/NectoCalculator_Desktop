@@ -1,1 +1,1 @@
-# NectoCalculator_Desktop
+# Necto Calculator
