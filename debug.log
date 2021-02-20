@@ -1,0 +1,18 @@
+[0219/111118.718:INFO:CONSOLE(416)] "%c%s color: red; background: yellow; font-size: 24px; AVVISO", source: https://www.gstatic.com/_/mss/boq-identity/_/js/k=boq-identity.IdentityPoliciesUi.it.MF87jVcDt1A.es5.O/am=CnAD/d=1/excm=_b,_tp,privacyhomeview/ed=1/dg=0/wt=2/ct=zgms/rs=AOaEmlErfjaILiJZXkSxB8Kt13bWXpguTQ/m=_b,_tp (416)
+[0219/111118.718:INFO:CONSOLE(416)] "%c%s font-size: 18px; L'utilizzo di questa console potrebbe consentire a utenti malintenzionati di rubare la tua identit√† e le tue informazioni attraverso un attacco detto Self-XSS.
+Non inserire o incollare codici che non comprendi.", source: https://www.gstatic.com/_/mss/boq-identity/_/js/k=boq-identity.IdentityPoliciesUi.it.MF87jVcDt1A.es5.O/am=CnAD/d=1/excm=_b,_tp,privacyhomeview/ed=1/dg=0/wt=2/ct=zgms/rs=AOaEmlErfjaILiJZXkSxB8Kt13bWXpguTQ/m=_b,_tp (416)
+[0219/111122.385:INFO:CONSOLE(1)] "'window.webkitStorageInfo' is deprecated. Please use 'navigator.webkitTemporaryStorage' or 'navigator.webkitPersistentStorage' instead.", source:  (1)
+[0219/111233.684:INFO:CONSOLE(0)] "Refused to display 'https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252Fsignin_passive%26feature%3Dpassive&hl=en' in a frame because it set 'X-Frame-Options' to 'deny'.", source: https://www.youtube.com/?hl=it&gl=IT (0)
+[0219/111239.296:INFO:CONSOLE(0)] "The resource https://i.ytimg.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.youtube.com/?hl=it&gl=IT (0)
+[0219/111339.597:INFO:CONSOLE(6520)] "Uncaught TypeError: this.playerApi.getPresentingPlayerType is not a function", source: https://music.youtube.com/s/4fbb6b3a/music_polymer_inlined_html.js (6520)
+[0219/111342.922:ERROR:shared_image_manager.cc(261)] SharedImageManager::ProduceOverlay: Trying to Produce a Overlay representation from a non-existent mailbox.
+[0219/111815.327:WARNING:sync_reader.cc(171)] ASR: No room in socket buffer.: » in corso la chiusura della pipe. (0xE8)
+[0219/112615.731:ERROR:command_buffer_proxy_impl.cc(122)] ContextResult::kTransientFailure: Failed to send GpuChannelMsg_CreateCommandBuffer.
+[0219/112615.732:WARNING:ipc_message_attachment_set.cc(49)] MessageAttachmentSet destroyed with unconsumed attachments: 0/1
+[0219/112615.732:ERROR:command_buffer_proxy_impl.cc(122)] ContextResult::kTransientFailure: Failed to send GpuChannelMsg_CreateCommandBuffer.
+[0219/112739.840:INFO:CONSOLE(1)] "<lightning-spinner> The alternativeText attribute should not be empty. Please add a description of what is causing the wait.", source: https://support.ancestry.it/components/lightning/spinner.js (1)
+[0219/112740.107:INFO:CONSOLE(4)] "[object Object]", source: https://support.ancestry.it/s/article/modules/afl/afl_ArticleThumbVote.js (4)
+[0219/112740.331:INFO:CONSOLE(4)] "Uncaught (in promise) TypeError: LWC component's @wire target property or method threw an error during value provisioning. Original error:
+[Cannot read property 'controllerValues' of undefined]", source: https://support.ancestry.it/s/article/modules/afl/afl_ArticleThumbVote.js (4)
+[0219/112742.727:INFO:CONSOLE(37)] "[object Object]", source: https://support.ancestry.it/libraries/instrumentation/beaconLib.BeaconLibrary.js (37)
+[0219/112805.770:INFO:CONSOLE(107)] "Uncaught [object Object]", source: https://ssl.gstatic.com/support/realtime/operator/1613552499959/operatordeferred_bin_base__it.js (107)
